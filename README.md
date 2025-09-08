@@ -12,7 +12,9 @@ It demonstrates three key parts:
 ## 📂 Project Structure
 project/
 ├─ index.html # Structured content & elements
+
 ├─ styles.css # CSS transitions, animations, effects
+
 └─ script.js # JS functions, logic, event handling
 
 
